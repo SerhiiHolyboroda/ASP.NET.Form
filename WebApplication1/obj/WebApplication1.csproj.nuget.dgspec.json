@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Task\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\C#Task\\р\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\C#Task\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\C#Task\\р\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Task\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\C#Task\\р\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\C#Task\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\C#Task\\р\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Upgrade\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Task\\WebApplication1\\obj\\",
+        "outputPath": "D:\\C#Task\\р\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\C#components\\NuGetPackages"
